@@ -1,8 +1,14 @@
 # SatTracker
 
+<p align="center">
+  <img src="https://github.com/YD1RUH/SatTracker/blob/main/image.png?raw=true" width="50%" alt="Tampilan SatTracker">
+</p>
+
 Aplikasi Android pelacak satelit dengan **overlay augmented reality (AR)** di kamera. Arahkan ponsel ke langit, dan SatTracker menampilkan posisi satelit, lintasannya, serta waktu **AOS** dan **LOS** secara realtime.
 
 > Produk hasil penelitian dan pengembangan (litbang) tim **AMSAT-ID** — <https://amsat-id.org/>
+
+**[⬇ Unduh APK (Beta V1.0.0)](https://github.com/YD1RUH/SatTracker/releases/download/Beta-V1.0.0/SatTracker.apk)**
 
 ## Fitur
 
@@ -19,7 +25,7 @@ Aplikasi Android pelacak satelit dengan **overlay augmented reality (AR)** di ka
 
 ## Instalasi
 
-1. Unduh file APK dari halaman **Releases** repositori ini.
+1. Unduh file APK: [SatTracker.apk](https://github.com/YD1RUH/SatTracker/releases/download/Beta-V1.0.0/SatTracker.apk) (atau dari halaman [Releases](https://github.com/YD1RUH/SatTracker/releases)).
 2. Buka file APK di ponsel. Jika diminta, izinkan **Install dari sumber tidak dikenal** untuk aplikasi yang Anda pakai membukanya.
 3. Buka **SatTracker**.
 
@@ -56,6 +62,7 @@ Aplikasi tidak meminta izin penyimpanan; file TLE dibuka lewat pemilih file Andr
 
 - Ketepatan penempatan overlay bergantung pada sensor ponsel (umumnya beberapa derajat) dan perkiraan sudut pandang kamera.
 - Aplikasi masih berstatus **beta**. Jika menemukan masalah (misalnya arah gambar atau titik satelit tidak sesuai di perangkat tertentu), laporkan lewat **Issues** dengan menyebutkan tipe ponsel dan versi Android.
+- Sebagian keyboard dengan saran teks/prediksi kadang tidak mengirim huruf dengan benar ke kolom pencarian; matikan saran teks atau coba keyboard lain.
 
 ## Kredit
 
