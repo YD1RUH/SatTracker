@@ -56,7 +56,6 @@ Aplikasi tidak meminta izin penyimpanan; file TLE dibuka lewat pemilih file Andr
 
 - Ketepatan penempatan overlay bergantung pada sensor ponsel (umumnya beberapa derajat) dan perkiraan sudut pandang kamera.
 - Aplikasi masih berstatus **beta**. Jika menemukan masalah (misalnya arah gambar atau titik satelit tidak sesuai di perangkat tertentu), laporkan lewat **Issues** dengan menyebutkan tipe ponsel dan versi Android.
-- Sebagian keyboard dengan saran teks/prediksi kadang tidak mengirim huruf dengan benar ke kolom pencarian; matikan saran teks atau coba keyboard lain.
 
 ## Kredit
 
