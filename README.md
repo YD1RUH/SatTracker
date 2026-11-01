@@ -52,7 +52,7 @@ Aplikasi Android pelacak satelit dengan **overlay augmented reality (AR)** di ka
   - **Rasi Bintang** — garis dan bintang utama 14 rasi (Orion, Beruang Besar/Kecil, Kasiopeia, Angsa, Lyra, Kalajengking, Gubug Penceng, Singa, Gemini, Taurus, Anjing Besar, Elang, Pegasus). Pilihan checklist diingat saat aplikasi dibuka lagi.
 - **Auto rotate** — mengikuti rotasi ponsel.
 - **Crosshair** di pusat kamera dengan bacaan Az/El arah bidikan, dan **label nama satelit** yang menempel pada lintasan hijaunya.
-- **HUD info** menempel pada objek overlay: untuk satelit menampilkan lintang/bujur titik sub-satelit, ketinggian (km), dan kecepatan orbit (km/s); untuk Space Object menampilkan Az/El, lintang/bujur titik di Bumi tempat objek tepat di zenit, jarak, dan kecepatan orbit. HUD otomatis dipindahkan ke posisi kosong agar tidak menimpa penanda, label, crosshair, panel, tombol, atau HUD lain (dengan garis penghubung bila agak jauh dari objeknya). Aktif/nonaktifkan lewat checkbox **HUD info** di bawah tombol Stop (atau di `Menu > Space Object`).
+- **HUD info** menempel pada objek overlay: untuk satelit menampilkan lintang/bujur titik sub-satelit, ketinggian (km), dan kecepatan orbit (km/s); untuk Space Object menampilkan Az/El, lintang/bujur titik di Bumi tempat objek tepat di zenit, jarak, dan kecepatan orbit.
 - Penanda arah mata angin (N/E/S/W) dan garis horizon untuk membantu memeriksa keselarasan sensor.
 
 ## Instalasi
